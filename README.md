@@ -20,7 +20,8 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![dark-mode](/design/dark-mode.PNG)
+![light-mode](/design/light-mode.PNG)
 
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
