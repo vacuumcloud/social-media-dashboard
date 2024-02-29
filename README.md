@@ -1,4 +1,4 @@
-# Social media dashboard with theme switcher solution
+# Social media dashboard with theme switcher
 
 ## Table of contents
 
